@@ -14,6 +14,9 @@ Let's pretend the `main` branch is currently fully functional (as a main branch 
 
 ## Merging the code with the `main` branch on GitHub
 
+
+
+
 Once your current version is committed, it's time to open a pull request. This can be done on GitHub through your web browser. 
 
 1. Open your forked repository on GitHub, and under "Contribute" open a pull request. 
@@ -41,3 +44,6 @@ Features:
 14. `yawcamMonitor` - check chinchilla health status
 15. `latency` - latency tracking on NELs
 16. `Shutdown` - Shuts NEL off, saves current state
+
+
+
